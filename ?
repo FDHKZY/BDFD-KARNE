@@ -1,0 +1,21 @@
+```$nomention
+
+Okul bitti senin ortalaman 
+
+`$random[50;100]`
+
+ders notları
+
+$title[matematik:$random[46;100]
+
+türkçe:$random[45;100]
+
+sosyal:$random[44;100]
+
+bilişim:$random[43;100]
+
+Din:$random[39;100]
+
+Fen:$random[42;100]
+
+müzik:$random[41;100]]```
